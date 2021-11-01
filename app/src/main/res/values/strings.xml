@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShadiMatcher</string>
+    <string name="api_common_error_msg">Oops! Something went wrong</string>
+</resources>

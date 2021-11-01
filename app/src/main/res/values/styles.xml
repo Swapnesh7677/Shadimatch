@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+
+    <style name="ProgressBarAlertTheme">
+        <item name="colorAccent">@color/white</item> <!-- Whatever color you want-->
+    </style>
+
+    <style name="Widget.Card" parent="Base.CardView">
+        <item name="cardBackgroundColor">@color/cardBackgroundColor</item>
+    </style>
+
+
+</resources>
